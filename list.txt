@@ -1,0 +1,16 @@
+['peach curry', 'chinese veggies', 'kale pasta']
+
+
+
+chillis: 1
+kale: 1
+peaches: 1
+eggs: 1
+ginger: 1
+mushrooms: 1
+red wine: 1
+pasta: 1
+rice: 1
+onions: 2
+broccoli: 1
+tomatoes: 1
